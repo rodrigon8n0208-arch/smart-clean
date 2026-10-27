@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# [DOMÍNIO] Ajuste quando o domínio for definido:
+Sitemap: https://www.seudominio.com.br/sitemap.xml

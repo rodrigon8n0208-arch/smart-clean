@@ -1,0 +1,21 @@
+:root {
+  --azul-profundo: #0B2545;
+  --aqua: #13C4C4;
+  --aqua-escuro: #087075; /* aqua com contraste AA sobre branco, para textos */
+  --aqua-claro: #CFF7F5;
+  --branco: #FFFFFF;
+  --cinza-texto: #4A5568;
+  --verde-whats: #25D366;
+
+  --fonte-titulo: 'Sora', system-ui, sans-serif;
+  --fonte-texto: 'Inter', system-ui, sans-serif;
+
+  --raio: 24px;
+  --raio-sm: 14px;
+  --sombra: 0 10px 30px -12px rgba(11, 37, 69, 0.18);
+  --sombra-forte: 0 24px 50px -20px rgba(11, 37, 69, 0.35);
+
+  --container: 1180px;
+  --gutter: clamp(16px, 4vw, 32px);
+  --header-h: 72px;
+}
